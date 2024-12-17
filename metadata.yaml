@@ -1,0 +1,40 @@
+_repo: The-principles-of-science-b-a-treatise-on-logic-and-scientific-method_74864
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jevons, William Stanley
+    alias: Jevons, W. Stanley (William Stanley)
+    birthdate: 1835
+    deathdate: 1882
+    gutenberg_agent_id: '36268'
+    url: http://www.gutenberg.org/2009/agents/36268
+    wikipedia: http://en.wikipedia.org/wiki/William_Stanley_Jevons
+description: ''
+gutenberg_issued: '2024-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74864'
+  lccn: '32010247'
+language: en
+pgterms:marc904: https://archive.org/details/principlesofsci00jevo
+pgterms:marc905: 20230708080540jevons
+pgterms:marc906: '1883'
+pgterms:marc907: gb
+production_note: Thiers Halliwell, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Methodology'
+- !lcsh 'Logic'
+- !lcc 'Q'
+- GITenberg
+tableOfContents: Book I. Formal logic, deductive and inductive -- Book II. Number,
+  variety, and probability -- Book III. Methods of measurement -- Book IV. Inductive
+  investigation -- Book V. Generalisation, analogy, and classification -- Book VI.
+  Reflections on the results and limits of scientific method.
+title: 'The principles of science : $b a treatise on logic and scientific method'
+url: http://www.gutenberg.org/ebooks/74864
